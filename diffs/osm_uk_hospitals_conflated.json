@@ -236,6 +236,42 @@
   {
    "geometry": {
     "coordinates": [
+     -0.1570546,
+     51.5766504
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 514349576,
+    "osm_type": "way",
+    "ref_coords": [
+     -0.15587349236011505,
+     51.57716751098633
+    ],
+    "ref_distance": 100.0,
+    "ref_id": "NYW03",
+    "ref_unused_tags.addr:street": "",
+    "ref_unused_tags.website": "http://www.highgatehospital.co.uk",
+    "tags.addr:housenumber": "17-19",
+    "tags.addr:street": "View Road",
+    "tags.amenity": "hospital",
+    "tags.building": "hospital",
+    "tags.name": "Highgate Private Hospital",
+    "tags.operator": "Aspen Healthcare Limited",
+    "tags.ref:GB:nhs_ods": "NYW03",
+    "tags.website": "https://www.highgatehospital.co.uk/",
+    "tags.wikidata": "Q28404470",
+    "tags_new.addr:city": "London",
+    "tags_new.addr:postcode": "N6 4DJ",
+    "tags_new.phone": "+44 20 8341 4182"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -0.1000976,
      51.5174898
     ],
@@ -422,6 +458,78 @@
   {
    "geometry": {
     "coordinates": [
+     -0.0455017,
+     51.5506346
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 43514739,
+    "osm_type": "way",
+    "ref_coords": [
+     -0.04608435556292534,
+     51.55063247680664
+    ],
+    "ref_distance": 40.3,
+    "ref_id": "RQXM1",
+    "ref_unused_tags.website": "http://www.homerton.nhs.uk",
+    "tags.amenity": "hospital",
+    "tags.emergency": "yes",
+    "tags.healthcare": "hospital",
+    "tags.loc_name": "Homerton Hospital",
+    "tags.name": "Homerton University Hospital",
+    "tags.ref:GB:nhs_ods": "RQXM1",
+    "tags.website": "http://www.homerton.nhs.uk/",
+    "tags.wikidata": "Q19654384",
+    "tags.wikipedia": "en:Homerton University Hospital",
+    "tags_new.addr:city": "London",
+    "tags_new.addr:postcode": "E9 6SR",
+    "tags_new.addr:street": "Homerton Row",
+    "tags_new.operator": "Homerton University Hospital NHS Foundation Trust",
+    "tags_new.phone": "+44 20 8510 5555"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -0.0391254,
+     51.5480441
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 326277354,
+    "osm_type": "way",
+    "ref_coords": [
+     -0.03767181932926178,
+     51.548030853271484
+    ],
+    "ref_distance": 100.6,
+    "ref_id": "RWK60",
+    "ref_unused_tags.addr:street": "12 Kenworthy Road",
+    "ref_unused_tags.website": "",
+    "tags.addr:housenumber": "12",
+    "tags.addr:postcode": "E9 5TD",
+    "tags.addr:street": "Kenworthy Road",
+    "tags.amenity": "hospital",
+    "tags.healthcare": "hospital",
+    "tags.old_name": "Hackney Hospital",
+    "tags.phone": "+44 20 8510 2003",
+    "tags.ref:GB:nhs_ods": "RWK60",
+    "tags_changed.name": "John Howard Centre -> The John Howard Centre",
+    "tags_new.addr:city": "London",
+    "tags_new.operator": "East London NHS Foundation Trust"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -1.9424287,
      52.4489199
     ],
@@ -585,6 +693,139 @@
     "tags.ref:GB:nhs_ods": "NV30H",
     "tags_changed.name": "Circle Rehabilitation Hospital Birmingham -> Circle Rehabilitation Birmingham",
     "tags_new.operator": "Circle Health"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.1111807,
+     51.577363
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 780482089,
+    "osm_type": "way",
+    "ref_coords": [
+     0.11050193011760712,
+     51.5779914855957
+    ],
+    "ref_distance": 84.3,
+    "ref_id": "RATGM",
+    "tags.amenity": "hospital",
+    "tags.healthcare": "hospital",
+    "tags.name": "Goodmayes Hospital",
+    "tags.operator": "North East London NHS Foundation Trust",
+    "tags.ref:GB:nhs_ods": "RATGM",
+    "tags.wikidata": "Q30293120",
+    "tags.wikipedia": "en:Goodmayes Hospital",
+    "tags_new.addr:city": "Ilford",
+    "tags_new.addr:postcode": "IG3 8XJ",
+    "tags_new.addr:street": "Barley Lane",
+    "tags_new.phone": "+44 300 555 1200",
+    "tags_new.website": "http://www.nelft.nhs.uk/"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.1112795,
+     51.5802584
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 902050280,
+    "osm_type": "way",
+    "ref_coords": [
+     0.11212128400802612,
+     51.580543518066406
+    ],
+    "ref_distance": 66.3,
+    "ref_id": "RF4DG",
+    "tags.amenity": "hospital",
+    "tags.name": "King George Hospital",
+    "tags.ref:GB:nhs_ods": "RF4DG",
+    "tags.wikidata": "Q6411611",
+    "tags_new.addr:city": "Ilford",
+    "tags_new.addr:postcode": "IG3 8YB",
+    "tags_new.addr:street": "Barley Lane",
+    "tags_new.operator": "Barking, Havering and Redbridge University Hospitals NHS Trust",
+    "tags_new.phone": "+44 330 400 4333",
+    "tags_new.website": "http://www.bhrhospitals.nhs.uk/"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.6881484,
+     51.5542589
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 49654985,
+    "osm_type": "way",
+    "ref_coords": [
+     0.6886317729949951,
+     51.553836822509766
+    ],
+    "ref_distance": 57.7,
+    "ref_id": "RAJ01",
+    "ref_unused_tags.website": "http://www.southend.nhs.uk",
+    "tags.addr:postcode": "SS0 0RY",
+    "tags.amenity": "hospital",
+    "tags.contact:phone": "+44 1702 435555",
+    "tags.ref:GB:nhs_ods": "RAJ01",
+    "tags.website": "http://www.southend.nhs.uk/",
+    "tags.wheelchair": "yes",
+    "tags.wikidata": "Q7569543",
+    "tags.wikipedia": "en:Southend University Hospital NHS Foundation Trust",
+    "tags_changed.name": "Southend University Hospital -> Southend Hospital",
+    "tags_new.addr:city": "Westcliff-on-Sea",
+    "tags_new.addr:street": "Prittlewell Chase",
+    "tags_new.operator": "Mid and South Essex NHS Foundation Trust"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     0.7272361,
+     51.5541559
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 902053803,
+    "osm_type": "way",
+    "ref_coords": [
+     0.7276030778884888,
+     51.55439376831055
+    ],
+    "ref_distance": 36.7,
+    "ref_id": "NT313",
+    "ref_unused_tags.addr:street": "",
+    "tags.amenity": "hospital",
+    "tags.operator": "Spire Healthcare",
+    "tags.ref:GB:nhs_ods": "NT313",
+    "tags.website": "https://www.spirehealthcare.com/spire-wellesley-hospital/",
+    "tags.wheelchair": "yes",
+    "tags_changed.name": "Wellesley Hospital -> Spire Wellesley Hospital",
+    "tags_new.addr:city": "Southend-on-Sea",
+    "tags_new.addr:postcode": "SS2 4XH",
+    "tags_new.phone": "+44 1702 462944"
    },
    "type": "Feature"
   },
@@ -12923,38 +13164,6 @@
   {
    "geometry": {
     "coordinates": [
-     0.1118803,
-     51.5802722
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 28883052,
-    "osm_type": "way",
-    "ref_coords": [
-     0.11212128400802612,
-     51.580543518066406
-    ],
-    "ref_distance": 34.5,
-    "ref_id": "NTP15",
-    "tags.amenity": "hospital",
-    "tags.wikidata": "Q6411611",
-    "tags_changed.name": "King George Hospital -> Practice Plus Group Hospital, Ilford",
-    "tags_new.addr:city": "Ilford",
-    "tags_new.addr:postcode": "IG3 8YB",
-    "tags_new.addr:street": "King George Hospital",
-    "tags_new.operator": "Practice Plus Group",
-    "tags_new.phone": "+44 333 200 4069",
-    "tags_new.ref:GB:nhs_ods": "NTP15",
-    "tags_new.website": "http://www.nelondontreatmentcentre.nhs.uk"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -1.1391289,
      52.9904817
     ],
@@ -14718,43 +14927,6 @@
     "tags_new.operator": "South Warwickshire NHS Foundation Trust",
     "tags_new.phone": "+44 1926 317700",
     "tags_new.ref:GB:nhs_ods": "RJC46"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -0.0455017,
-     51.5506346
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 43514739,
-    "osm_type": "way",
-    "ref_coords": [
-     -0.04608435556292534,
-     51.55063247680664
-    ],
-    "ref_distance": 40.3,
-    "ref_id": "RQXM1",
-    "ref_unused_tags.website": "http://www.homerton.nhs.uk",
-    "tags.amenity": "hospital",
-    "tags.emergency": "yes",
-    "tags.healthcare": "hospital",
-    "tags.loc_name": "Homerton Hospital",
-    "tags.name": "Homerton University Hospital",
-    "tags.website": "http://www.homerton.nhs.uk/",
-    "tags.wikidata": "Q19654384",
-    "tags.wikipedia": "en:Homerton University Hospital",
-    "tags_new.addr:city": "London",
-    "tags_new.addr:postcode": "E9 6SR",
-    "tags_new.addr:street": "Homerton Row",
-    "tags_new.operator": "Homerton University Hospital NHS Foundation Trust",
-    "tags_new.phone": "+44 20 8510 5555",
-    "tags_new.ref:GB:nhs_ods": "RQXM1"
    },
    "type": "Feature"
   },
@@ -17703,41 +17875,6 @@
     "tags_new.phone": "+44 1942 244000",
     "tags_new.ref:GB:nhs_ods": "RRF53",
     "tags_new.website": "http://www.wwl.nhs.uk/hospitals/wrightington/default.aspx"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     0.6881484,
-     51.5542589
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 49654985,
-    "osm_type": "way",
-    "ref_coords": [
-     0.6886317729949951,
-     51.553836822509766
-    ],
-    "ref_distance": 57.7,
-    "ref_id": "RAJ01",
-    "ref_unused_tags.website": "http://www.southend.nhs.uk",
-    "tags.addr:postcode": "SS0 0RY",
-    "tags.amenity": "hospital",
-    "tags.contact:phone": "+44 1702 435555",
-    "tags.website": "http://www.southend.nhs.uk/",
-    "tags.wheelchair": "yes",
-    "tags.wikidata": "Q7569543",
-    "tags.wikipedia": "en:Southend University Hospital NHS Foundation Trust",
-    "tags_changed.name": "Southend University Hospital -> Southend Hospital",
-    "tags_new.addr:city": "Westcliff-on-Sea",
-    "tags_new.addr:street": "Prittlewell Chase",
-    "tags_new.operator": "Mid and South Essex NHS Foundation Trust",
-    "tags_new.ref:GB:nhs_ods": "RAJ01"
    },
    "type": "Feature"
   },
@@ -21679,44 +21816,6 @@
     "tags_new.phone": "+44 300 790 7000",
     "tags_new.ref:GB:nhs_ods": "RRERS",
     "tags_new.website": "http://www.sssft.nhs.uk"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -0.0391254,
-     51.5480441
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 326277354,
-    "osm_type": "way",
-    "ref_coords": [
-     -0.04018094018101692,
-     51.548377990722656
-    ],
-    "ref_distance": 82.0,
-    "ref_id": "RWK06",
-    "ref_unused_tags.addr:postcode": "E9 6AT",
-    "ref_unused_tags.addr:street": "1 Crozier Terrace",
-    "ref_unused_tags.phone": "+44 20 8510 2340",
-    "ref_unused_tags.website": "",
-    "tags.addr:housenumber": "12",
-    "tags.addr:postcode": "E9 5TD",
-    "tags.addr:street": "Kenworthy Road",
-    "tags.amenity": "hospital",
-    "tags.area": "yes",
-    "tags.healthcare": "hospital",
-    "tags.old_name": "Hackney Hospital",
-    "tags.phone": "+44 20 8510 2003",
-    "tags_changed.name": "John Howard Centre -> The Lodge",
-    "tags_new.addr:city": "London",
-    "tags_new.operator": "East London NHS Foundation Trust",
-    "tags_new.ref:GB:nhs_ods": "RWK06"
    },
    "type": "Feature"
   },
@@ -27700,40 +27799,6 @@
   {
    "geometry": {
     "coordinates": [
-     0.1121269,
-     51.5768987
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "modify",
-    "marker-color": "#0000ee",
-    "osm_id": 780482089,
-    "osm_type": "way",
-    "ref_coords": [
-     0.11050193011760712,
-     51.5779914855957
-    ],
-    "ref_distance": 165.6,
-    "ref_id": "RATGM",
-    "tags.amenity": "hospital",
-    "tags.healthcare": "hospital",
-    "tags.name": "Goodmayes Hospital",
-    "tags.operator": "North East London NHS Foundation Trust",
-    "tags.wikidata": "Q30293120",
-    "tags.wikipedia": "en:Goodmayes Hospital",
-    "tags_new.addr:city": "Ilford",
-    "tags_new.addr:postcode": "IG3 8XJ",
-    "tags_new.addr:street": "Barley Lane",
-    "tags_new.phone": "+44 300 555 1200",
-    "tags_new.ref:GB:nhs_ods": "RATGM",
-    "tags_new.website": "http://www.nelft.nhs.uk/"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -2.8991193,
      53.2100552
     ],
@@ -29554,7 +29619,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -854,
+    "osm_id": -856,
     "osm_type": "node",
     "ref_id": "15CAT",
     "tags.addr:city": "Clevedon",
@@ -29580,7 +29645,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -855,
+    "osm_id": -857,
     "osm_type": "node",
     "ref_id": "8A580",
     "tags.addr:postcode": "NW7 4HX",
@@ -29603,7 +29668,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -856,
+    "osm_id": -858,
     "osm_type": "node",
     "ref_id": "ADP02",
     "tags.addr:city": "Maidstone",
@@ -29629,7 +29694,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -857,
+    "osm_id": -859,
     "osm_type": "node",
     "ref_id": "AHN02",
     "tags.addr:city": "Manchester",
@@ -29653,7 +29718,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -858,
+    "osm_id": -860,
     "osm_type": "node",
     "ref_id": "AHQ02",
     "tags.addr:city": "London",
@@ -29676,7 +29741,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -859,
+    "osm_id": -861,
     "osm_type": "node",
     "ref_id": "AHQ03",
     "tags.addr:city": "London",
@@ -29700,7 +29765,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -860,
+    "osm_id": -862,
     "osm_type": "node",
     "ref_id": "AQT02",
     "tags.addr:city": "Hayle",
@@ -29723,7 +29788,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -861,
+    "osm_id": -863,
     "osm_type": "node",
     "ref_id": "AWT01",
     "tags.addr:city": "London",
@@ -29746,7 +29811,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -862,
+    "osm_id": -864,
     "osm_type": "node",
     "ref_id": "AXA02",
     "tags.addr:city": "London",
@@ -29769,7 +29834,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -863,
+    "osm_id": -865,
     "osm_type": "node",
     "ref_id": "AXG05",
     "tags.addr:city": "Salisbury",
@@ -29793,7 +29858,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -864,
+    "osm_id": -866,
     "osm_type": "node",
     "ref_id": "AXL01",
     "tags.addr:city": "Norwich",
@@ -29817,7 +29882,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -865,
+    "osm_id": -867,
     "osm_type": "node",
     "ref_id": "C4M4J",
     "tags.addr:city": "London",
@@ -29843,7 +29908,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -866,
+    "osm_id": -868,
     "osm_type": "node",
     "ref_id": "D4A4S",
     "tags.addr:city": "Warrington",
@@ -29866,7 +29931,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -867,
+    "osm_id": -869,
     "osm_type": "node",
     "ref_id": "DAM02",
     "tags.addr:city": "Stockport",
@@ -29890,7 +29955,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -868,
+    "osm_id": -870,
     "osm_type": "node",
     "ref_id": "DAM03",
     "tags.addr:city": "Billingham",
@@ -29913,7 +29978,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -869,
+    "osm_id": -871,
     "osm_type": "node",
     "ref_id": "DAM05",
     "tags.addr:city": "Billingham",
@@ -29936,7 +30001,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -870,
+    "osm_id": -872,
     "osm_type": "node",
     "ref_id": "DAM07",
     "tags.addr:city": "Waltham Abbey",
@@ -29959,7 +30024,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -871,
+    "osm_id": -873,
     "osm_type": "node",
     "ref_id": "DAM08",
     "tags.addr:city": "Hull",
@@ -29984,7 +30049,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -872,
+    "osm_id": -874,
     "osm_type": "node",
     "ref_id": "DAY27",
     "tags.addr:city": "Leicester",
@@ -30007,7 +30072,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -873,
+    "osm_id": -875,
     "osm_type": "node",
     "ref_id": "DC808",
     "tags.addr:city": "Rye",
@@ -30031,7 +30096,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -874,
+    "osm_id": -876,
     "osm_type": "node",
     "ref_id": "DE865",
     "tags.addr:city": "Oldham",
@@ -30055,7 +30120,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -875,
+    "osm_id": -877,
     "osm_type": "node",
     "ref_id": "DJ001",
     "tags.addr:city": "Harrow",
@@ -30079,7 +30144,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -876,
+    "osm_id": -878,
     "osm_type": "node",
     "ref_id": "DKF01",
     "tags.addr:city": "Salford",
@@ -30105,7 +30170,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -877,
+    "osm_id": -879,
     "osm_type": "node",
     "ref_id": "DM803",
     "tags.addr:city": "London",
@@ -30128,7 +30193,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -878,
+    "osm_id": -880,
     "osm_type": "node",
     "ref_id": "DRH01",
     "tags.addr:city": "Rotherham",
@@ -30151,7 +30216,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -879,
+    "osm_id": -881,
     "osm_type": "node",
     "ref_id": "DX102",
     "tags.addr:city": "London",
@@ -30175,7 +30240,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -880,
+    "osm_id": -882,
     "osm_type": "node",
     "ref_id": "GAP01",
     "tags.addr:city": "Wolverhampton",
@@ -30198,7 +30263,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -881,
+    "osm_id": -883,
     "osm_type": "node",
     "ref_id": "GC401",
     "tags.addr:city": "Liverpool",
@@ -30224,7 +30289,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -882,
+    "osm_id": -884,
     "osm_type": "node",
     "ref_id": "GED02",
     "tags.addr:city": "Derby",
@@ -30248,7 +30313,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -883,
+    "osm_id": -885,
     "osm_type": "node",
     "ref_id": "GFM01",
     "tags.addr:city": "London",
@@ -30272,7 +30337,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -884,
+    "osm_id": -886,
     "osm_type": "node",
     "ref_id": "GFM02",
     "tags.addr:city": "London",
@@ -30287,6 +30352,29 @@
   {
    "geometry": {
     "coordinates": [
+     -1.7103612422943115,
+     53.8323974609375
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -887,
+    "osm_type": "node",
+    "ref_id": "H5Q1V",
+    "tags.addr:city": "Bradford",
+    "tags.addr:postcode": "BD10 0RD",
+    "tags.amenity": "hospital",
+    "tags.name": "Optegra Yorkshire Hospital",
+    "tags.operator": "Calderdale and Huddersfield NHS Foundation Trust",
+    "tags.ref:GB:nhs_ods": "H5Q1V"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -2.6477932929992676,
      53.786434173583984
     ],
@@ -30295,7 +30383,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -885,
+    "osm_id": -888,
     "osm_type": "node",
     "ref_id": "M8X5K",
     "tags.addr:city": "Preston",
@@ -30319,7 +30407,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -886,
+    "osm_id": -889,
     "osm_type": "node",
     "ref_id": "NBGJ9",
     "tags.addr:city": "Wilmslow",
@@ -30342,7 +30430,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -887,
+    "osm_id": -890,
     "osm_type": "node",
     "ref_id": "NBI02",
     "tags.addr:city": "Billericay",
@@ -30366,7 +30454,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -888,
+    "osm_id": -891,
     "osm_type": "node",
     "ref_id": "NCR06",
     "tags.addr:city": "Southport",
@@ -30392,7 +30480,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -889,
+    "osm_id": -892,
     "osm_type": "node",
     "ref_id": "NDAJ0",
     "tags.addr:city": "Dartford",
@@ -30417,7 +30505,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -890,
+    "osm_id": -893,
     "osm_type": "node",
     "ref_id": "NIB09",
     "tags.addr:city": "Stafford",
@@ -30441,7 +30529,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -891,
+    "osm_id": -894,
     "osm_type": "node",
     "ref_id": "NL002",
     "tags.addr:city": "Leek",
@@ -30464,7 +30552,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -892,
+    "osm_id": -895,
     "osm_type": "node",
     "ref_id": "NL50B",
     "tags.addr:city": "Chorley",
@@ -30488,7 +30576,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -893,
+    "osm_id": -896,
     "osm_type": "node",
     "ref_id": "NL50N",
     "tags.addr:city": "Cromer",
@@ -30512,7 +30600,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -894,
+    "osm_id": -897,
     "osm_type": "node",
     "ref_id": "NLR02",
     "tags.addr:city": "Berkeley",
@@ -30535,7 +30623,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -895,
+    "osm_id": -898,
     "osm_type": "node",
     "ref_id": "NM601",
     "tags.addr:city": "Lymington",
@@ -30559,7 +30647,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -896,
+    "osm_id": -899,
     "osm_type": "node",
     "ref_id": "NMF01",
     "tags.addr:city": "Brackley",
@@ -30582,7 +30670,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -897,
+    "osm_id": -900,
     "osm_type": "node",
     "ref_id": "NMJ03",
     "tags.addr:city": "Weston-Super-Mare",
@@ -30608,7 +30696,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -898,
+    "osm_id": -901,
     "osm_type": "node",
     "ref_id": "NMJ05",
     "tags.addr:city": "London",
@@ -30634,7 +30722,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -899,
+    "osm_id": -902,
     "osm_type": "node",
     "ref_id": "NMJ06",
     "tags.addr:city": "Brighouse",
@@ -30660,7 +30748,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -900,
+    "osm_id": -903,
     "osm_type": "node",
     "ref_id": "NMJ09",
     "tags.addr:city": "Harrogate",
@@ -30686,7 +30774,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -901,
+    "osm_id": -904,
     "osm_type": "node",
     "ref_id": "NMJ0F",
     "tags.addr:city": "Nottingham",
@@ -30712,7 +30800,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -902,
+    "osm_id": -905,
     "osm_type": "node",
     "ref_id": "NMJ0G",
     "tags.addr:city": "Hexham",
@@ -30738,7 +30826,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -903,
+    "osm_id": -906,
     "osm_type": "node",
     "ref_id": "NMJ0J",
     "tags.addr:city": "Darlington",
@@ -30763,7 +30851,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -904,
+    "osm_id": -907,
     "osm_type": "node",
     "ref_id": "NMJ0Y",
     "tags.addr:city": "Birmingham",
@@ -30789,7 +30877,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -905,
+    "osm_id": -908,
     "osm_type": "node",
     "ref_id": "NMJ11",
     "tags.addr:city": "Stevenage",
@@ -30815,7 +30903,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -906,
+    "osm_id": -909,
     "osm_type": "node",
     "ref_id": "NMJ13",
     "tags.addr:city": "London",
@@ -30841,7 +30929,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -907,
+    "osm_id": -910,
     "osm_type": "node",
     "ref_id": "NMJ14",
     "tags.addr:city": "Kenton",
@@ -30867,7 +30955,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -908,
+    "osm_id": -911,
     "osm_type": "node",
     "ref_id": "NMJ1F",
     "tags.addr:city": "Manchester",
@@ -30893,7 +30981,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -909,
+    "osm_id": -912,
     "osm_type": "node",
     "ref_id": "NMJ1X",
     "tags.addr:city": "Middlesbrough",
@@ -30919,7 +31007,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -910,
+    "osm_id": -913,
     "osm_type": "node",
     "ref_id": "NMJ20",
     "tags.addr:city": "Taunton",
@@ -30944,7 +31032,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -911,
+    "osm_id": -914,
     "osm_type": "node",
     "ref_id": "NMJ25",
     "tags.addr:city": "Coventry",
@@ -30970,7 +31058,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -912,
+    "osm_id": -915,
     "osm_type": "node",
     "ref_id": "NMJ2K",
     "tags.addr:city": "Crewe",
@@ -30996,7 +31084,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -913,
+    "osm_id": -916,
     "osm_type": "node",
     "ref_id": "NMP01",
     "tags.addr:city": "Manchester",
@@ -31021,7 +31109,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -914,
+    "osm_id": -917,
     "osm_type": "node",
     "ref_id": "NMQ01",
     "tags.addr:city": "Warrington",
@@ -31045,7 +31133,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -915,
+    "osm_id": -918,
     "osm_type": "node",
     "ref_id": "NMV52",
     "tags.addr:city": "Macclesfield",
@@ -31070,7 +31158,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -916,
+    "osm_id": -919,
     "osm_type": "node",
     "ref_id": "NMV54",
     "tags.addr:city": "London",
@@ -31094,7 +31182,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -917,
+    "osm_id": -920,
     "osm_type": "node",
     "ref_id": "NMV58",
     "tags.addr:city": "Birmingham",
@@ -31112,32 +31200,6 @@
   {
    "geometry": {
     "coordinates": [
-     -1.7103612422943115,
-     53.8323974609375
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -918,
-    "osm_type": "node",
-    "ref_id": "NNH02",
-    "tags.addr:city": "Bradford",
-    "tags.addr:postcode": "BD10 0RD",
-    "tags.addr:street": "Apperley Bridge",
-    "tags.amenity": "hospital",
-    "tags.name": "Optegra Eye Hospital Yorkshire",
-    "tags.operator": "Optegra UK",
-    "tags.phone": "+44 808 301 2823",
-    "tags.ref:GB:nhs_ods": "NNH02",
-    "tags.website": "https://www.optegra.com"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -0.6132461428642273,
      51.24115753173828
     ],
@@ -31146,7 +31208,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -919,
+    "osm_id": -921,
     "osm_type": "node",
     "ref_id": "NNH03",
     "tags.addr:city": "Guildford",
@@ -31164,6 +31226,32 @@
   {
    "geometry": {
     "coordinates": [
+     -2.2499332427978516,
+     53.43009948730469
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -922,
+    "osm_type": "node",
+    "ref_id": "NNH04",
+    "tags.addr:city": "Manchester",
+    "tags.addr:postcode": "M20 2EY",
+    "tags.addr:street": "2 The Avenue",
+    "tags.amenity": "hospital",
+    "tags.name": "Optegra Eye Hospital Manchester",
+    "tags.operator": "Optegra UK",
+    "tags.phone": "+44 161 240 0700",
+    "tags.ref:GB:nhs_ods": "NNH04",
+    "tags.website": "https://www.optegra.com"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -1.2471767663955688,
      50.87654113769531
     ],
@@ -31172,7 +31260,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -920,
+    "osm_id": -923,
     "osm_type": "node",
     "ref_id": "NNH06",
     "tags.addr:city": "Fareham",
@@ -31198,7 +31286,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -921,
+    "osm_id": -924,
     "osm_type": "node",
     "ref_id": "NNH07",
     "tags.addr:city": "London",
@@ -31224,7 +31312,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -922,
+    "osm_id": -925,
     "osm_type": "node",
     "ref_id": "NPG09",
     "tags.addr:city": "Bolton",
@@ -31249,7 +31337,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -923,
+    "osm_id": -926,
     "osm_type": "node",
     "ref_id": "NQ901",
     "tags.addr:city": "Bedford",
@@ -31273,7 +31361,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -924,
+    "osm_id": -927,
     "osm_type": "node",
     "ref_id": "NQM01",
     "tags.addr:city": "Peterborough",
@@ -31298,7 +31386,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -925,
+    "osm_id": -928,
     "osm_type": "node",
     "ref_id": "NR101",
     "tags.addr:city": "Bradford",
@@ -31322,7 +31410,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -926,
+    "osm_id": -929,
     "osm_type": "node",
     "ref_id": "NRC01",
     "tags.addr:city": "Sheffield",
@@ -31346,7 +31434,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -927,
+    "osm_id": -930,
     "osm_type": "node",
     "ref_id": "NT212",
     "tags.addr:city": "Chichester",
@@ -31372,7 +31460,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -928,
+    "osm_id": -931,
     "osm_type": "node",
     "ref_id": "NT216",
     "tags.addr:city": "Guildford",
@@ -31398,7 +31486,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -929,
+    "osm_id": -932,
     "osm_type": "node",
     "ref_id": "NT218",
     "tags.addr:city": "Haywards Heath",
@@ -31424,7 +31512,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -930,
+    "osm_id": -933,
     "osm_type": "node",
     "ref_id": "NT224",
     "tags.addr:city": "Leamington Spa",
@@ -31450,7 +31538,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -931,
+    "osm_id": -934,
     "osm_type": "node",
     "ref_id": "NT242",
     "tags.addr:city": "Wolverhampton",
@@ -31468,32 +31556,6 @@
   {
    "geometry": {
     "coordinates": [
-     -1.0773791074752808,
-     53.9765510559082
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -932,
-    "osm_type": "node",
-    "ref_id": "NT245",
-    "tags.addr:city": "York",
-    "tags.addr:postcode": "YO31 8TA",
-    "tags.addr:street": "Haxby Road",
-    "tags.amenity": "hospital",
-    "tags.name": "Nuffield Health, York Hospital",
-    "tags.operator": "Nuffield Health",
-    "tags.phone": "+44 800 015 5020",
-    "tags.ref:GB:nhs_ods": "NT245",
-    "tags.website": "http://www.nuffieldhealth.com/yorkhospital"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -1.086676001548767,
      52.918426513671875
     ],
@@ -31502,7 +31564,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -933,
+    "osm_id": -935,
     "osm_type": "node",
     "ref_id": "NT30A",
     "tags.addr:city": "Nottingham",
@@ -31520,31 +31582,6 @@
   {
    "geometry": {
     "coordinates": [
-     0.7276030778884888,
-     51.55439376831055
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -934,
-    "osm_type": "node",
-    "ref_id": "NT313",
-    "tags.addr:city": "Southend-on-Sea",
-    "tags.addr:postcode": "SS2 4XH",
-    "tags.amenity": "hospital",
-    "tags.name": "Spire Wellesley Hospital",
-    "tags.operator": "Spire Healthcare",
-    "tags.phone": "+44 1702 462944",
-    "tags.ref:GB:nhs_ods": "NT313",
-    "tags.website": "https://www.spirehealthcare.com/spire-wellesley-hospital/"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -0.3317178189754486,
      51.6373405456543
     ],
@@ -31553,7 +31590,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -935,
+    "osm_id": -936,
     "osm_type": "node",
     "ref_id": "NT315",
     "tags.addr:city": "Bushey",
@@ -31579,7 +31616,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -936,
+    "osm_id": -937,
     "osm_type": "node",
     "ref_id": "NT322",
     "tags.addr:city": "Leicester",
@@ -31605,7 +31642,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -937,
+    "osm_id": -938,
     "osm_type": "node",
     "ref_id": "NT325",
     "tags.addr:city": "Wirral",
@@ -31631,7 +31668,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -938,
+    "osm_id": -939,
     "osm_type": "node",
     "ref_id": "NT339",
     "tags.addr:city": "Macclesfield",
@@ -31656,7 +31693,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -939,
+    "osm_id": -940,
     "osm_type": "node",
     "ref_id": "NT348",
     "tags.addr:city": "Elland",
@@ -31681,7 +31718,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -940,
+    "osm_id": -941,
     "osm_type": "node",
     "ref_id": "NT350",
     "tags.addr:city": "Leeds",
@@ -31707,7 +31744,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -941,
+    "osm_id": -942,
     "osm_type": "node",
     "ref_id": "NT405",
     "tags.addr:city": "Northwood",
@@ -31733,7 +31770,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -942,
+    "osm_id": -943,
     "osm_type": "node",
     "ref_id": "NT419",
     "tags.addr:city": "Poole",
@@ -31759,7 +31796,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -943,
+    "osm_id": -944,
     "osm_type": "node",
     "ref_id": "NT421",
     "tags.addr:city": "Enfield",
@@ -31785,7 +31822,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -944,
+    "osm_id": -945,
     "osm_type": "node",
     "ref_id": "NT450",
     "tags.addr:city": "Lincoln",
@@ -31811,7 +31848,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -945,
+    "osm_id": -946,
     "osm_type": "node",
     "ref_id": "NT490",
     "tags.addr:city": "Westcliff-on-Sea",
@@ -31837,7 +31874,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -946,
+    "osm_id": -947,
     "osm_type": "node",
     "ref_id": "NT708",
     "tags.addr:city": "Gosport",
@@ -31860,7 +31897,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -947,
+    "osm_id": -948,
     "osm_type": "node",
     "ref_id": "NTN03",
     "tags.addr:city": "Hemel Hempstead",
@@ -31886,7 +31923,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -948,
+    "osm_id": -949,
     "osm_type": "node",
     "ref_id": "NTN04",
     "tags.addr:city": "Heathfield",
@@ -31912,7 +31949,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -949,
+    "osm_id": -950,
     "osm_type": "node",
     "ref_id": "NTN05",
     "tags.addr:city": "Wadhurst",
@@ -31938,7 +31975,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -950,
+    "osm_id": -951,
     "osm_type": "node",
     "ref_id": "NTN09",
     "tags.addr:city": "Bromley",
@@ -31964,7 +32001,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -951,
+    "osm_id": -952,
     "osm_type": "node",
     "ref_id": "NTN11",
     "tags.addr:city": "Woking",
@@ -31990,7 +32027,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -952,
+    "osm_id": -953,
     "osm_type": "node",
     "ref_id": "NTN12",
     "tags.addr:city": "Southampton",
@@ -32016,7 +32053,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -953,
+    "osm_id": -954,
     "osm_type": "node",
     "ref_id": "NTN14",
     "tags.addr:city": "Preston",
@@ -32042,7 +32079,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -954,
+    "osm_id": -955,
     "osm_type": "node",
     "ref_id": "NTN24",
     "tags.addr:city": "Darlington",
@@ -32068,7 +32105,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -955,
+    "osm_id": -956,
     "osm_type": "node",
     "ref_id": "NTN38",
     "tags.addr:city": "Bristol",
@@ -32094,7 +32131,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -956,
+    "osm_id": -957,
     "osm_type": "node",
     "ref_id": "NTN39",
     "tags.addr:city": "Dewsbury",
@@ -32120,7 +32157,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -957,
+    "osm_id": -958,
     "osm_type": "node",
     "ref_id": "NTN42",
     "tags.addr:city": "York",
@@ -32138,6 +32175,32 @@
   {
    "geometry": {
     "coordinates": [
+     0.11212128400802612,
+     51.580543518066406
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -959,
+    "osm_type": "node",
+    "ref_id": "NTP15",
+    "tags.addr:city": "Ilford",
+    "tags.addr:postcode": "IG3 8YB",
+    "tags.addr:street": "King George Hospital",
+    "tags.amenity": "hospital",
+    "tags.name": "Practice Plus Group Hospital, Ilford",
+    "tags.operator": "Practice Plus Group",
+    "tags.phone": "+44 333 200 4069",
+    "tags.ref:GB:nhs_ods": "NTP15",
+    "tags.website": "http://www.nelondontreatmentcentre.nhs.uk"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -2.5627048015594482,
      51.18974304199219
     ],
@@ -32146,7 +32209,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -958,
+    "osm_id": -960,
     "osm_type": "node",
     "ref_id": "NTPH1",
     "tags.addr:city": "Shepton Mallet",
@@ -32172,7 +32235,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -959,
+    "osm_id": -961,
     "osm_type": "node",
     "ref_id": "NTT10",
     "tags.addr:city": "Mansfield",
@@ -32196,7 +32259,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -960,
+    "osm_id": -962,
     "osm_type": "node",
     "ref_id": "NTYF2",
     "tags.addr:city": "Birmingham",
@@ -32222,7 +32285,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -961,
+    "osm_id": -963,
     "osm_type": "node",
     "ref_id": "NV201",
     "tags.addr:city": "Maidenhead",
@@ -32248,7 +32311,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -962,
+    "osm_id": -964,
     "osm_type": "node",
     "ref_id": "NV203",
     "tags.addr:city": "Stafford",
@@ -32274,7 +32337,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -963,
+    "osm_id": -965,
     "osm_type": "node",
     "ref_id": "NV213",
     "tags.addr:city": "Stoke-on-Trent",
@@ -32299,7 +32362,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -964,
+    "osm_id": -966,
     "osm_type": "node",
     "ref_id": "NV217",
     "tags.addr:city": "Canterbury",
@@ -32325,7 +32388,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -965,
+    "osm_id": -967,
     "osm_type": "node",
     "ref_id": "NV647",
     "tags.addr:city": "Liverpool",
@@ -32348,7 +32411,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -966,
+    "osm_id": -968,
     "osm_type": "node",
     "ref_id": "NV656",
     "tags.addr:city": "Newton-Le-Willows",
@@ -32371,7 +32434,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -967,
+    "osm_id": -969,
     "osm_type": "node",
     "ref_id": "NVC06",
     "tags.addr:city": "Peterborough",
@@ -32397,7 +32460,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -968,
+    "osm_id": -970,
     "osm_type": "node",
     "ref_id": "NVC0M",
     "tags.addr:city": "Croydon",
@@ -32423,7 +32486,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -969,
+    "osm_id": -971,
     "osm_type": "node",
     "ref_id": "NVC0R",
     "tags.addr:city": "Middlesbrough",
@@ -32449,7 +32512,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -970,
+    "osm_id": -972,
     "osm_type": "node",
     "ref_id": "NVC12",
     "tags.addr:city": "Salford",
@@ -32474,7 +32537,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -971,
+    "osm_id": -973,
     "osm_type": "node",
     "ref_id": "NVC14",
     "tags.addr:city": "Doncaster",
@@ -32499,7 +32562,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -972,
+    "osm_id": -974,
     "osm_type": "node",
     "ref_id": "NVC17",
     "tags.addr:city": "Stafford",
@@ -32516,31 +32579,6 @@
   {
    "geometry": {
     "coordinates": [
-     0.1304715871810913,
-     51.80709457397461
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -973,
-    "osm_type": "node",
-    "ref_id": "NVC19",
-    "tags.addr:city": "Sawbridgeworth",
-    "tags.addr:postcode": "CM21 0HH",
-    "tags.amenity": "hospital",
-    "tags.name": "Rivers Hospital",
-    "tags.operator": "Ramsay Healthcare UK Operations Limited",
-    "tags.phone": "+44 1279 602672",
-    "tags.ref:GB:nhs_ods": "NVC19",
-    "tags.website": "https://www.rivershospital.co.uk"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -2.15242862701416,
      52.45992660522461
     ],
@@ -32549,7 +32587,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -974,
+    "osm_id": -975,
     "osm_type": "node",
     "ref_id": "NVC1H",
     "tags.addr:city": "Stourbridge",
@@ -32572,7 +32610,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -975,
+    "osm_id": -976,
     "osm_type": "node",
     "ref_id": "NVC27",
     "tags.addr:city": "Boston",
@@ -32598,7 +32636,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -976,
+    "osm_id": -977,
     "osm_type": "node",
     "ref_id": "NVC29",
     "tags.addr:city": "Newcastle Upon Tyne",
@@ -32624,7 +32662,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -977,
+    "osm_id": -978,
     "osm_type": "node",
     "ref_id": "NVC31",
     "tags.addr:city": "Milton Keynes",
@@ -32650,7 +32688,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -978,
+    "osm_id": -979,
     "osm_type": "node",
     "ref_id": "NVC44",
     "tags.addr:city": "Birmingham",
@@ -32676,7 +32714,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -979,
+    "osm_id": -980,
     "osm_type": "node",
     "ref_id": "NVD03",
     "tags.addr:city": "Saltash",
@@ -32699,7 +32737,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -980,
+    "osm_id": -981,
     "osm_type": "node",
     "ref_id": "NVM01",
     "tags.addr:city": "Cobham",
@@ -32725,7 +32763,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -981,
+    "osm_id": -982,
     "osm_type": "node",
     "ref_id": "NW611",
     "tags.addr:city": "London",
@@ -32736,31 +32774,6 @@
     "tags.operator": "Hca International",
     "tags.phone": "+44 20 3603 3844",
     "tags.ref:GB:nhs_ods": "NW611"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -0.15587349236011505,
-     51.57716751098633
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -982,
-    "osm_type": "node",
-    "ref_id": "NYW03",
-    "tags.addr:city": "London",
-    "tags.addr:postcode": "N6 4DJ",
-    "tags.amenity": "hospital",
-    "tags.name": "Highgate Private Hospital",
-    "tags.operator": "Aspen Healthcare Limited",
-    "tags.phone": "+44 20 8341 4182",
-    "tags.ref:GB:nhs_ods": "NYW03",
-    "tags.website": "http://www.highgatehospital.co.uk"
    },
    "type": "Feature"
   },
@@ -33188,6 +33201,29 @@
   {
    "geometry": {
     "coordinates": [
+     0.1304715871810913,
+     51.80709457397461
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -1000,
+    "osm_type": "node",
+    "ref_id": "RAJ96",
+    "tags.addr:city": "Sawbridgeworth",
+    "tags.addr:postcode": "CM21 0HH",
+    "tags.amenity": "hospital",
+    "tags.name": "Capio Rivers Hospital",
+    "tags.operator": "Mid and South Essex NHS Foundation Trust",
+    "tags.ref:GB:nhs_ods": "RAJ96"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -0.1987369954586029,
      51.654151916503906
     ],
@@ -33196,7 +33232,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1000,
+    "osm_id": -1001,
     "osm_type": "node",
     "ref_id": "RAL80",
     "tags.addr:city": "Barnet",
@@ -33220,7 +33256,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1001,
+    "osm_id": -1002,
     "osm_type": "node",
     "ref_id": "RAN01",
     "tags.addr:city": "Stanmore",
@@ -33245,7 +33281,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1002,
+    "osm_id": -1003,
     "osm_type": "node",
     "ref_id": "RAN02",
     "tags.addr:city": "London",
@@ -33270,7 +33306,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1003,
+    "osm_id": -1004,
     "osm_type": "node",
     "ref_id": "RAX60",
     "tags.addr:city": "London",
@@ -33295,7 +33331,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1004,
+    "osm_id": -1005,
     "osm_type": "node",
     "ref_id": "RBL02",
     "tags.addr:city": "Wallasey",
@@ -33320,7 +33356,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1005,
+    "osm_id": -1006,
     "osm_type": "node",
     "ref_id": "RBN56",
     "tags.addr:city": "Liverpool",
@@ -33343,7 +33379,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1006,
+    "osm_id": -1007,
     "osm_type": "node",
     "ref_id": "RBTPP",
     "tags.addr:city": "Winsford",
@@ -33369,7 +33405,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1007,
+    "osm_id": -1008,
     "osm_type": "node",
     "ref_id": "RCBWD",
     "tags.addr:city": "Scarborough",
@@ -33392,7 +33428,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1008,
+    "osm_id": -1009,
     "osm_type": "node",
     "ref_id": "RCD4X",
     "tags.addr:city": "Northallerton",
@@ -33415,7 +33451,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1009,
+    "osm_id": -1010,
     "osm_type": "node",
     "ref_id": "RCD4Y",
     "tags.addr:city": "Thirsk",
@@ -33438,7 +33474,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1010,
+    "osm_id": -1011,
     "osm_type": "node",
     "ref_id": "RCX08",
     "tags.addr:city": "King's Lynn",
@@ -33462,7 +33498,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1011,
+    "osm_id": -1012,
     "osm_type": "node",
     "ref_id": "RD115",
     "tags.addr:city": "Bath",
@@ -33485,7 +33521,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1012,
+    "osm_id": -1013,
     "osm_type": "node",
     "ref_id": "RDY38",
     "tags.addr:city": "Christchurch",
@@ -33511,7 +33547,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1013,
+    "osm_id": -1014,
     "osm_type": "node",
     "ref_id": "RDYCV",
     "tags.addr:city": "Wimborne",
@@ -33537,7 +33573,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1014,
+    "osm_id": -1015,
     "osm_type": "node",
     "ref_id": "RDZ11",
     "tags.addr:city": "Bournemouth",
@@ -33560,7 +33596,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1015,
+    "osm_id": -1016,
     "osm_type": "node",
     "ref_id": "REFA8",
     "tags.addr:city": "Penzance",
@@ -33583,7 +33619,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1016,
+    "osm_id": -1017,
     "osm_type": "node",
     "ref_id": "REFX7",
     "tags.addr:city": "Fowey",
@@ -33606,7 +33642,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1017,
+    "osm_id": -1018,
     "osm_type": "node",
     "ref_id": "REMBB",
     "tags.addr:city": "Liverpool",
@@ -33630,7 +33666,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1018,
+    "osm_id": -1019,
     "osm_type": "node",
     "ref_id": "RENAA",
     "tags.addr:city": "Liverpool",
@@ -33655,7 +33691,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1019,
+    "osm_id": -1020,
     "osm_type": "node",
     "ref_id": "RET20",
     "tags.addr:city": "Liverpool",
@@ -33681,7 +33717,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1020,
+    "osm_id": -1021,
     "osm_type": "node",
     "ref_id": "RF4CH",
     "tags.addr:city": "Romford",
@@ -33704,7 +33740,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1021,
+    "osm_id": -1022,
     "osm_type": "node",
     "ref_id": "RF4CM",
     "tags.addr:city": "Chelmsford",
@@ -33728,7 +33764,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1022,
+    "osm_id": -1023,
     "osm_type": "node",
     "ref_id": "RF4PH",
     "tags.addr:city": "Romford",
@@ -33751,7 +33787,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1023,
+    "osm_id": -1024,
     "osm_type": "node",
     "ref_id": "RFRDG",
     "tags.addr:city": "Rotherham",
@@ -33774,7 +33810,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1024,
+    "osm_id": -1025,
     "osm_type": "node",
     "ref_id": "RGT01",
     "tags.addr:city": "Cambridge",
@@ -33792,6 +33828,29 @@
   {
    "geometry": {
     "coordinates": [
+     -1.0773791074752808,
+     53.9765510559082
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -1026,
+    "osm_type": "node",
+    "ref_id": "RGT1W",
+    "tags.addr:city": "Jersey",
+    "tags.addr:postcode": "JE1 3UH",
+    "tags.amenity": "hospital",
+    "tags.name": "Jersey General Hospital",
+    "tags.operator": "Cambridge University Hospitals NHS Foundation Trust",
+    "tags.ref:GB:nhs_ods": "RGT1W"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -2.418154716491699,
      51.05875778198242
     ],
@@ -33800,7 +33859,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1025,
+    "osm_id": -1027,
     "osm_type": "node",
     "ref_id": "RH5G2",
     "tags.addr:city": "Wincanton",
@@ -33826,7 +33885,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1026,
+    "osm_id": -1028,
     "osm_type": "node",
     "ref_id": "RH5K6",
     "tags.addr:city": "Bridgwater",
@@ -33852,7 +33911,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1027,
+    "osm_id": -1029,
     "osm_type": "node",
     "ref_id": "RH5T8",
     "tags.addr:city": "Taunton",
@@ -33875,7 +33934,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1028,
+    "osm_id": -1030,
     "osm_type": "node",
     "ref_id": "RH5T9",
     "tags.addr:city": "Glastonbury",
@@ -33899,7 +33958,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1029,
+    "osm_id": -1031,
     "osm_type": "node",
     "ref_id": "RHARY",
     "tags.addr:city": "Rotherham",
@@ -33923,7 +33982,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1030,
+    "osm_id": -1032,
     "osm_type": "node",
     "ref_id": "RHQNG",
     "tags.addr:city": "Sheffield",
@@ -33949,7 +34008,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1031,
+    "osm_id": -1033,
     "osm_type": "node",
     "ref_id": "RHQRC",
     "tags.addr:city": "Sheffield",
@@ -33972,7 +34031,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1032,
+    "osm_id": -1034,
     "osm_type": "node",
     "ref_id": "RJ129",
     "tags.addr:city": "London",
@@ -33995,7 +34054,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1033,
+    "osm_id": -1035,
     "osm_type": "node",
     "ref_id": "RJ801",
     "tags.addr:city": "St. Austell",
@@ -34020,7 +34079,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1034,
+    "osm_id": -1036,
     "osm_type": "node",
     "ref_id": "RJ803",
     "tags.addr:city": "St. Ives",
@@ -34045,7 +34104,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1035,
+    "osm_id": -1037,
     "osm_type": "node",
     "ref_id": "RJC56",
     "tags.addr:city": "Nuneaton",
@@ -34069,7 +34128,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1036,
+    "osm_id": -1038,
     "osm_type": "node",
     "ref_id": "RJR05",
     "tags.addr:city": "Chester",
@@ -34094,7 +34153,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1037,
+    "osm_id": -1039,
     "osm_type": "node",
     "ref_id": "RJR59",
     "tags.addr:city": "Widnes",
@@ -34117,7 +34176,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1038,
+    "osm_id": -1040,
     "osm_type": "node",
     "ref_id": "RKEHC",
     "tags.addr:city": "London",
@@ -34141,7 +34200,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1039,
+    "osm_id": -1041,
     "osm_type": "node",
     "ref_id": "RKL79",
     "tags.addr:city": "London",
@@ -34165,7 +34224,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1040,
+    "osm_id": -1042,
     "osm_type": "node",
     "ref_id": "RM131",
     "tags.addr:city": "Cromer",
@@ -34191,7 +34250,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1041,
+    "osm_id": -1043,
     "osm_type": "node",
     "ref_id": "RMY09",
     "tags.addr:city": "Attleborough",
@@ -34217,7 +34276,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1042,
+    "osm_id": -1044,
     "osm_type": "node",
     "ref_id": "RMY13",
     "tags.addr:city": "Carlton Colville",
@@ -34243,7 +34302,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1043,
+    "osm_id": -1045,
     "osm_type": "node",
     "ref_id": "RMY55",
     "tags.addr:city": "Gorleston on Sea",
@@ -34269,7 +34328,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1044,
+    "osm_id": -1046,
     "osm_type": "node",
     "ref_id": "RMYMF",
     "tags.addr:city": "Sudbury",
@@ -34284,6 +34343,31 @@
   {
    "geometry": {
     "coordinates": [
+     1.1926113367080688,
+     52.05061340332031
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -1047,
+    "osm_type": "node",
+    "ref_id": "RMYMV",
+    "tags.addr:city": "Ipswich",
+    "tags.addr:postcode": "IP3 8LS",
+    "tags.amenity": "hospital",
+    "tags.name": "St Clements Hospital, Ipswich",
+    "tags.operator": "Norfolk and Suffolk NHS Foundation Trust",
+    "tags.phone": "+44 1473 329467",
+    "tags.ref:GB:nhs_ods": "RMYMV",
+    "tags.website": "http://www.nsft.nhs.uk"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      1.1968756914138794,
      52.05271911621094
     ],
@@ -34292,7 +34376,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1045,
+    "osm_id": -1048,
     "osm_type": "node",
     "ref_id": "RMYMW",
     "tags.addr:city": "Ipswich",
@@ -34310,29 +34394,6 @@
   {
    "geometry": {
     "coordinates": [
-     1.1926113367080688,
-     52.05061340332031
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -1046,
-    "osm_type": "node",
-    "ref_id": "RMYNX",
-    "tags.addr:postcode": "IP3 8LS",
-    "tags.addr:street": "St Clements Hospital",
-    "tags.amenity": "hospital",
-    "tags.name": "Foxhall House, Ipswich",
-    "tags.operator": "Norfolk and Suffolk NHS Foundation Trust",
-    "tags.ref:GB:nhs_ods": "RMYNX"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -2.0946319103240967,
      51.57769012451172
     ],
@@ -34341,7 +34402,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1047,
+    "osm_id": -1049,
     "osm_type": "node",
     "ref_id": "RN331",
     "tags.addr:city": "Malmesbury",
@@ -34364,7 +34425,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1048,
+    "osm_id": -1050,
     "osm_type": "node",
     "ref_id": "RN333",
     "tags.addr:city": "Chippenham",
@@ -34390,7 +34451,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1049,
+    "osm_id": -1051,
     "osm_type": "node",
     "ref_id": "RN7C1",
     "tags.addr:city": "Tunbridge Wells",
@@ -34413,7 +34474,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1050,
+    "osm_id": -1052,
     "osm_type": "node",
     "ref_id": "RN7FM",
     "tags.addr:city": "Longfield",
@@ -34436,7 +34497,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1051,
+    "osm_id": -1053,
     "osm_type": "node",
     "ref_id": "RNA04",
     "tags.addr:city": "Stourbridge",
@@ -34461,7 +34522,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1052,
+    "osm_id": -1054,
     "osm_type": "node",
     "ref_id": "RNNCA",
     "tags.addr:city": "Maryport",
@@ -34487,7 +34548,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1053,
+    "osm_id": -1055,
     "osm_type": "node",
     "ref_id": "RNNDD",
     "tags.addr:city": "Brampton",
@@ -34513,7 +34574,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1054,
+    "osm_id": -1056,
     "osm_type": "node",
     "ref_id": "RP1F9",
     "tags.addr:city": "Wellingborough",
@@ -34536,7 +34597,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1055,
+    "osm_id": -1057,
     "osm_type": "node",
     "ref_id": "RP408",
     "tags.addr:city": "Chelmsford",
@@ -34559,7 +34620,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1056,
+    "osm_id": -1058,
     "osm_type": "node",
     "ref_id": "RP5RE",
     "tags.addr:city": "Retford",
@@ -34584,7 +34645,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1057,
+    "osm_id": -1059,
     "osm_type": "node",
     "ref_id": "RP7CG",
     "tags.addr:city": "Lincoln",
@@ -34609,7 +34670,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1058,
+    "osm_id": -1060,
     "osm_type": "node",
     "ref_id": "RP7DC",
     "tags.addr:city": "Boston",
@@ -34634,7 +34695,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1059,
+    "osm_id": -1061,
     "osm_type": "node",
     "ref_id": "RPGAD",
     "tags.addr:city": "Orpington",
@@ -34659,7 +34720,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1060,
+    "osm_id": -1062,
     "osm_type": "node",
     "ref_id": "RPGCR",
     "tags.addr:city": "Bromley",
@@ -34682,7 +34743,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1061,
+    "osm_id": -1063,
     "osm_type": "node",
     "ref_id": "RPGDJ",
     "tags.addr:city": "Bexleyheath",
@@ -34705,7 +34766,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1062,
+    "osm_id": -1064,
     "osm_type": "node",
     "ref_id": "RPGHP",
     "tags.addr:city": "London",
@@ -34729,7 +34790,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1063,
+    "osm_id": -1065,
     "osm_type": "node",
     "ref_id": "RQX20",
     "tags.addr:city": "London",
@@ -34755,7 +34816,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1064,
+    "osm_id": -1066,
     "osm_type": "node",
     "ref_id": "RREHI",
     "tags.addr:city": "Newcastle",
@@ -34779,7 +34840,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1065,
+    "osm_id": -1067,
     "osm_type": "node",
     "ref_id": "RRK97",
     "tags.addr:city": "Birmingham",
@@ -34805,7 +34866,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1066,
+    "osm_id": -1068,
     "osm_type": "node",
     "ref_id": "RRPG7",
     "tags.addr:city": "Enfield",
@@ -34829,7 +34890,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1067,
+    "osm_id": -1069,
     "osm_type": "node",
     "ref_id": "RTD04",
     "tags.addr:city": "Newcastle Upon Tyne",
@@ -34854,7 +34915,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1068,
+    "osm_id": -1070,
     "osm_type": "node",
     "ref_id": "RTD13",
     "tags.addr:city": "Cramlington",
@@ -34878,7 +34939,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1069,
+    "osm_id": -1071,
     "osm_type": "node",
     "ref_id": "RTDAR",
     "tags.addr:city": "Morpeth",
@@ -34901,7 +34962,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1070,
+    "osm_id": -1072,
     "osm_type": "node",
     "ref_id": "RTE22",
     "tags.addr:city": "Cheltenham",
@@ -34925,7 +34986,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1071,
+    "osm_id": -1073,
     "osm_type": "node",
     "ref_id": "RTFDY",
     "tags.addr:city": "Newcastle Upon Tyne",
@@ -34949,7 +35010,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1072,
+    "osm_id": -1074,
     "osm_type": "node",
     "ref_id": "RTH02",
     "tags.addr:city": "Oxford",
@@ -34975,7 +35036,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1073,
+    "osm_id": -1075,
     "osm_type": "node",
     "ref_id": "RTH05",
     "tags.addr:city": "Banbury",
@@ -35001,7 +35062,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1074,
+    "osm_id": -1076,
     "osm_type": "node",
     "ref_id": "RTH45",
     "tags.addr:city": "Faringdon",
@@ -35025,7 +35086,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1075,
+    "osm_id": -1077,
     "osm_type": "node",
     "ref_id": "RTHG4",
     "tags.addr:city": "Moreton-In-Marsh",
@@ -35048,7 +35109,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1076,
+    "osm_id": -1078,
     "osm_type": "node",
     "ref_id": "RTQ02",
     "tags.addr:city": "Gloucester",
@@ -35074,7 +35135,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1077,
+    "osm_id": -1079,
     "osm_type": "node",
     "ref_id": "RTQ13",
     "tags.addr:postcode": "GL51 9EZ",
@@ -35097,7 +35158,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1078,
+    "osm_id": -1080,
     "osm_type": "node",
     "ref_id": "RTQ54",
     "tags.addr:postcode": "GL5 4SA",
@@ -35120,7 +35181,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1079,
+    "osm_id": -1081,
     "osm_type": "node",
     "ref_id": "RTQ90",
     "tags.addr:city": "Gloucester",
@@ -35146,7 +35207,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1080,
+    "osm_id": -1082,
     "osm_type": "node",
     "ref_id": "RTQHM",
     "tags.addr:postcode": "HR4 0AY",
@@ -35169,7 +35230,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1081,
+    "osm_id": -1083,
     "osm_type": "node",
     "ref_id": "RTRAT",
     "tags.addr:city": "Middlesbrough",
@@ -35194,7 +35255,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1082,
+    "osm_id": -1084,
     "osm_type": "node",
     "ref_id": "RV378",
     "tags.addr:city": "London",
@@ -35217,7 +35278,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1083,
+    "osm_id": -1085,
     "osm_type": "node",
     "ref_id": "RV581",
     "tags.addr:city": "London",
@@ -35243,7 +35304,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1084,
+    "osm_id": -1086,
     "osm_type": "node",
     "ref_id": "RV929",
     "tags.addr:city": "Hornsea",
@@ -35269,7 +35330,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1085,
+    "osm_id": -1087,
     "osm_type": "node",
     "ref_id": "RV933",
     "tags.addr:city": "Hull",
@@ -35295,7 +35356,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1086,
+    "osm_id": -1088,
     "osm_type": "node",
     "ref_id": "RV938",
     "tags.addr:city": "Hull",
@@ -35321,7 +35382,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1087,
+    "osm_id": -1089,
     "osm_type": "node",
     "ref_id": "RV941",
     "tags.addr:city": "Beverley",
@@ -35347,7 +35408,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1088,
+    "osm_id": -1090,
     "osm_type": "node",
     "ref_id": "RV989",
     "tags.addr:city": "Hull",
@@ -35371,7 +35432,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1089,
+    "osm_id": -1091,
     "osm_type": "node",
     "ref_id": "RVJ20",
     "tags.addr:city": "Bristol",
@@ -35397,7 +35458,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1090,
+    "osm_id": -1092,
     "osm_type": "node",
     "ref_id": "RVN3Q",
     "tags.addr:city": "Bristol",
@@ -35423,7 +35484,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1091,
+    "osm_id": -1093,
     "osm_type": "node",
     "ref_id": "RVN6W",
     "tags.addr:city": "Westbury",
@@ -35446,7 +35507,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1092,
+    "osm_id": -1094,
     "osm_type": "node",
     "ref_id": "RVRA1",
     "tags.addr:city": "Surbiton",
@@ -35469,7 +35530,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1093,
+    "osm_id": -1095,
     "osm_type": "node",
     "ref_id": "RVV09",
     "tags.addr:city": "Margate",
@@ -35495,7 +35556,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1094,
+    "osm_id": -1096,
     "osm_type": "node",
     "ref_id": "RW11F",
     "tags.addr:city": "Hook",
@@ -35520,7 +35581,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1095,
+    "osm_id": -1097,
     "osm_type": "node",
     "ref_id": "RW15R",
     "tags.addr:city": "Emsworth",
@@ -35544,7 +35605,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1096,
+    "osm_id": -1098,
     "osm_type": "node",
     "ref_id": "RW1Q2",
     "tags.addr:city": "Lyndhurst",
@@ -35567,7 +35628,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1097,
+    "osm_id": -1099,
     "osm_type": "node",
     "ref_id": "RW404",
     "tags.addr:city": "Liverpool",
@@ -35593,7 +35654,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1098,
+    "osm_id": -1100,
     "osm_type": "node",
     "ref_id": "RW40A",
     "tags.addr:city": "Southport",
@@ -35617,7 +35678,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1099,
+    "osm_id": -1101,
     "osm_type": "node",
     "ref_id": "RW5EF",
     "tags.addr:city": "Preston",
@@ -35642,7 +35703,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1100,
+    "osm_id": -1102,
     "osm_type": "node",
     "ref_id": "RW605",
     "tags.addr:city": "Rochdale",
@@ -35668,7 +35729,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1101,
+    "osm_id": -1103,
     "osm_type": "node",
     "ref_id": "RWF35",
     "tags.addr:city": "Dartford",
@@ -35692,7 +35753,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1102,
+    "osm_id": -1104,
     "osm_type": "node",
     "ref_id": "RWG14",
     "tags.addr:city": "Abbots Langley",
@@ -35707,25 +35768,25 @@
   {
    "geometry": {
     "coordinates": [
-     -0.03767181932926178,
-     51.548030853271484
+     -0.04018094018101692,
+     51.548377990722656
     ],
     "type": "Point"
    },
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1103,
+    "osm_id": -1105,
     "osm_type": "node",
-    "ref_id": "RWK60",
+    "ref_id": "RWK06",
     "tags.addr:city": "London",
-    "tags.addr:postcode": "E9 5TD",
-    "tags.addr:street": "12 Kenworthy Road",
+    "tags.addr:postcode": "E9 6AT",
+    "tags.addr:street": "1 Crozier Terrace",
     "tags.amenity": "hospital",
-    "tags.name": "The John Howard Centre",
+    "tags.name": "The Lodge",
     "tags.operator": "East London NHS Foundation Trust",
-    "tags.phone": "+44 20 8510 2003",
-    "tags.ref:GB:nhs_ods": "RWK60"
+    "tags.phone": "+44 20 8510 2340",
+    "tags.ref:GB:nhs_ods": "RWK06"
    },
    "type": "Feature"
   },
@@ -35740,7 +35801,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1104,
+    "osm_id": -1106,
     "osm_type": "node",
     "ref_id": "RWK61",
     "tags.addr:city": "London",
@@ -35758,6 +35819,30 @@
   {
    "geometry": {
     "coordinates": [
+     -0.04608435556292534,
+     51.55063247680664
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -1107,
+    "osm_type": "node",
+    "ref_id": "RWK62",
+    "tags.addr:city": "London",
+    "tags.addr:postcode": "E9 6SR",
+    "tags.amenity": "hospital",
+    "tags.name": "City And Hackney Centre For Mental Health",
+    "tags.operator": "East London NHS Foundation Trust",
+    "tags.phone": "+44 20 8510 8117",
+    "tags.ref:GB:nhs_ods": "RWK62"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      0.04329974949359894,
      51.54092788696289
     ],
@@ -35766,7 +35851,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1105,
+    "osm_id": -1108,
     "osm_type": "node",
     "ref_id": "RWK89",
     "tags.addr:city": "London",
@@ -35791,7 +35876,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1106,
+    "osm_id": -1109,
     "osm_type": "node",
     "ref_id": "RWW06",
     "tags.addr:city": "Manchester",
@@ -35814,7 +35899,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1107,
+    "osm_id": -1110,
     "osm_type": "node",
     "ref_id": "RWW10",
     "tags.addr:city": "Warrington",
@@ -35838,7 +35923,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1108,
+    "osm_id": -1111,
     "osm_type": "node",
     "ref_id": "RWYC6",
     "tags.addr:city": "Ilkley",
@@ -35861,7 +35946,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1109,
+    "osm_id": -1112,
     "osm_type": "node",
     "ref_id": "RX1AA",
     "tags.addr:city": "Nottingham",
@@ -35886,7 +35971,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1110,
+    "osm_id": -1113,
     "osm_type": "node",
     "ref_id": "RX224",
     "tags.addr:city": "Worthing",
@@ -35912,7 +35997,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1111,
+    "osm_id": -1114,
     "osm_type": "node",
     "ref_id": "RX2E9",
     "tags.addr:city": "Hailsham",
@@ -35937,7 +36022,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1112,
+    "osm_id": -1115,
     "osm_type": "node",
     "ref_id": "RX34F",
     "tags.addr:city": "York",
@@ -35963,7 +36048,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1113,
+    "osm_id": -1116,
     "osm_type": "node",
     "ref_id": "RX3AT",
     "tags.addr:city": "Bishop Auckland",
@@ -35989,7 +36074,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1114,
+    "osm_id": -1117,
     "osm_type": "node",
     "ref_id": "RX3LF",
     "tags.addr:city": "Middlesbrough",
@@ -36015,7 +36100,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1115,
+    "osm_id": -1118,
     "osm_type": "node",
     "ref_id": "RX40B",
     "tags.addr:city": "Carlisle",
@@ -36041,7 +36126,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1116,
+    "osm_id": -1119,
     "osm_type": "node",
     "ref_id": "RXM02",
     "tags.addr:city": "Chesterfield",
@@ -36067,7 +36152,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1117,
+    "osm_id": -1120,
     "osm_type": "node",
     "ref_id": "RXN10",
     "tags.addr:city": "Lytham St. Annes",
@@ -36091,7 +36176,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1118,
+    "osm_id": -1121,
     "osm_type": "node",
     "ref_id": "RXPDC",
     "tags.addr:city": "Durham",
@@ -36114,7 +36199,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1119,
+    "osm_id": -1122,
     "osm_type": "node",
     "ref_id": "RXQ50",
     "tags.addr:city": "High Wycombe",
@@ -36140,7 +36225,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1120,
+    "osm_id": -1123,
     "osm_type": "node",
     "ref_id": "RXQ64",
     "tags.addr:city": "Chalfont St Peter",
@@ -36166,7 +36251,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1121,
+    "osm_id": -1124,
     "osm_type": "node",
     "ref_id": "RXR50",
     "tags.addr:city": "Nelson",
@@ -36192,7 +36277,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1122,
+    "osm_id": -1125,
     "osm_type": "node",
     "ref_id": "RXR70",
     "tags.addr:postcode": "BB7 4JX",
@@ -36207,6 +36292,32 @@
   {
    "geometry": {
     "coordinates": [
+     -1.7447479963302612,
+     52.37980270385742
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -1126,
+    "osm_type": "node",
+    "ref_id": "RXT15",
+    "tags.addr:city": "Solihull",
+    "tags.addr:postcode": "B93 0QA",
+    "tags.addr:street": "Off Downing Close",
+    "tags.amenity": "hospital",
+    "tags.name": "David Bromley House",
+    "tags.operator": "Birmingham and Solihull Mental Health NHS Foundation Trust",
+    "tags.phone": "+44 121 678 4935",
+    "tags.ref:GB:nhs_ods": "RXT15",
+    "tags.website": "http://www.bsmhft.nhs.uk"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -1.883678913116455,
      52.44133377075195
     ],
@@ -36215,7 +36326,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1123,
+    "osm_id": -1127,
     "osm_type": "node",
     "ref_id": "RXT24",
     "tags.addr:city": "Birmingham",
@@ -36241,7 +36352,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1124,
+    "osm_id": -1128,
     "osm_type": "node",
     "ref_id": "RXT27",
     "tags.addr:city": "Solihull",
@@ -36267,7 +36378,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1125,
+    "osm_id": -1129,
     "osm_type": "node",
     "ref_id": "RXT29",
     "tags.addr:city": "Birmingham",
@@ -36293,7 +36404,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1126,
+    "osm_id": -1130,
     "osm_type": "node",
     "ref_id": "RXT47",
     "tags.addr:city": "Birmingham",
@@ -36311,32 +36422,6 @@
   {
    "geometry": {
     "coordinates": [
-     -1.7447479963302612,
-     52.37980270385742
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -1127,
-    "osm_type": "node",
-    "ref_id": "RXT96",
-    "tags.addr:city": "Solihull",
-    "tags.addr:postcode": "B93 0QA",
-    "tags.addr:street": "Off Downing Close",
-    "tags.amenity": "hospital",
-    "tags.name": "Dan Mooney House",
-    "tags.operator": "Birmingham and Solihull Mental Health NHS Foundation Trust",
-    "tags.phone": "+44 121 301 4930",
-    "tags.ref:GB:nhs_ods": "RXT96",
-    "tags.website": "http://www.bsmhft.nhs.uk"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -2.2914507389068604,
      53.53675079345703
     ],
@@ -36345,7 +36430,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1128,
+    "osm_id": -1131,
     "osm_type": "node",
     "ref_id": "RXV06",
     "tags.addr:city": "Manchester",
@@ -36371,7 +36456,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1129,
+    "osm_id": -1132,
     "osm_type": "node",
     "ref_id": "RXV64",
     "tags.addr:city": "Bolton",
@@ -36394,7 +36479,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1130,
+    "osm_id": -1133,
     "osm_type": "node",
     "ref_id": "RXV85",
     "tags.addr:city": "Altrincham",
@@ -36417,7 +36502,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1131,
+    "osm_id": -1134,
     "osm_type": "node",
     "ref_id": "RY311",
     "tags.addr:city": "Norwich",
@@ -36442,7 +36527,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1132,
+    "osm_id": -1135,
     "osm_type": "node",
     "ref_id": "RY328",
     "tags.addr:city": "Norwich",
@@ -36466,7 +36551,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1133,
+    "osm_id": -1136,
     "osm_type": "node",
     "ref_id": "RY8AK",
     "tags.addr:city": "Chesterfield",
@@ -36492,7 +36577,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1134,
+    "osm_id": -1137,
     "osm_type": "node",
     "ref_id": "RY8NT",
     "tags.addr:city": "Chesterfield",
@@ -36518,7 +36603,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1135,
+    "osm_id": -1138,
     "osm_type": "node",
     "ref_id": "RYJ07",
     "tags.addr:city": "London",
@@ -36543,7 +36628,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1136,
+    "osm_id": -1139,
     "osm_type": "node",
     "ref_id": "RYX94",
     "tags.addr:city": "Watford",
@@ -36566,7 +36651,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1137,
+    "osm_id": -1140,
     "osm_type": "node",
     "ref_id": "RYYCH",
     "tags.addr:city": "Deal",
@@ -36592,7 +36677,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1138,
+    "osm_id": -1141,
     "osm_type": "node",
     "ref_id": "RYYDC",
     "tags.addr:city": "Tonbridge",
@@ -36618,7 +36703,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1139,
+    "osm_id": -1142,
     "osm_type": "node",
     "ref_id": "TAD23",
     "tags.addr:city": "Bingley",
@@ -36641,7 +36726,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1140,
+    "osm_id": -1143,
     "osm_type": "node",
     "ref_id": "TAF02",
     "tags.addr:city": "London",
@@ -36664,7 +36749,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1141,
+    "osm_id": -1144,
     "osm_type": "node",
     "ref_id": "TAF36",
     "tags.addr:city": "London",
@@ -36687,7 +36772,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1142,
+    "osm_id": -1145,
     "osm_type": "node",
     "ref_id": "TAHEC",
     "tags.addr:city": "Sheffield",
@@ -36712,7 +36797,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1143,
+    "osm_id": -1146,
     "osm_type": "node",
     "ref_id": "TAHXP",
     "tags.addr:city": "Sheffield",
@@ -36736,7 +36821,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1144,
+    "osm_id": -1147,
     "osm_type": "node",
     "ref_id": "TP97Y",
     "tags.addr:postcode": "ST4 6NW",
@@ -36759,7 +36844,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1145,
+    "osm_id": -1148,
     "osm_type": "node",
     "ref_id": "TP9FD",
     "tags.addr:postcode": "WD17 2UB",
@@ -36782,7 +36867,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1146,
+    "osm_id": -1149,
     "osm_type": "node",
     "ref_id": "V4D7D",
     "tags.addr:city": "Brackley",
@@ -36797,30 +36882,6 @@
   {
    "geometry": {
     "coordinates": [
-     -2.2499332427978516,
-     53.43009948730469
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "action": "create",
-    "marker-color": "#11dd11",
-    "osm_id": -1147,
-    "osm_type": "node",
-    "ref_id": "W1R4F",
-    "tags.addr:city": "Manchester",
-    "tags.addr:postcode": "M20 2EY",
-    "tags.addr:street": "2 The Avenue",
-    "tags.amenity": "hospital",
-    "tags.name": "Optegra Manchester Hospital",
-    "tags.operator": "Calderdale and Huddersfield NHS Foundation Trust",
-    "tags.ref:GB:nhs_ods": "W1R4F"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -2.5492568016052246,
      51.50330352783203
     ],
@@ -36829,7 +36890,7 @@
    "properties": {
     "action": "create",
     "marker-color": "#11dd11",
-    "osm_id": -1148,
+    "osm_id": -1150,
     "osm_type": "node",
     "ref_id": "Y8J7D",
     "tags.addr:city": "Bristol",
